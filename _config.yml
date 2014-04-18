@@ -1,0 +1,44 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: daige
+  email: superdaige@gmail.com
+  link: http://daige.me
+  weibo: http://weibo.com/daige13
+  github: http://github.com/daige
+
+# 站点信息
+title: daige的博客 
+description: daige的博客
+url: http://daige.me
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/upload/gavatar/gavatar.png
+favicon: /public/upload/gavatar/favicon.ico
+
+# google analytics 设置
+ga:
+#  id: UA-43667383-1
+# url: daige.me
+
+# disqus 设置
+disqus:
+  shortname: daige13
+
+# 主题设置，自动激活某个标签
+active: 安全
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Hack
+  - Share
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章

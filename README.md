@@ -1,4 +1,1 @@
-daige.github.io
-===============
-
-daige's Blog
+blog: daige.me

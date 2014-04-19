@@ -30,12 +30,12 @@ disqus:
   shortname: daige13
 
 # 主题设置，自动激活某个标签
-active: 安全
+active: 分享
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Hack
-  - Share
+  - Python
+  - XSS
 
 # 中文本地化
 locals:

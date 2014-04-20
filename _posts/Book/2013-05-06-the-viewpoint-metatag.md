@@ -1,12 +1,12 @@
 ---
 layout: post
-title: readingTest
+title: 2014完整书单
 category: 读书
-tags: web2hack
+tags: 2014 书单
 description:
 ---
 
-## debug过程
+##C/C++
 1.在web上浏览的时候，响应式布局是好用的，放大缩小页面都可以实现页面变更，但是在手机上调试的时候死活不能用
 
 2.因为css中@media是根据window的宽度来控制css的，所以我尝试输出了一下在window变更的时候window的width，结果发现PC上使用时一切正常，而手机上输出的一直是980。
@@ -19,7 +19,7 @@ description:
 
 以后发现手机window的width变为320了，即预期效果
 
-##  viewpoint说明
+## WEB安全
 
 - width 控制viewpoint的宽度，可以是固定值，也可以是device-width，即设备的宽度
 - height 高度

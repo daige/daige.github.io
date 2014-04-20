@@ -6,13 +6,12 @@ tags: web2hack
 description: 
 ---
 
-### daige整理
--The Week of Baidu Bugs
+#daige整理
+1.The Week of Baidu Bugs  [链接](https://github.com/daige/web2hack/blob/master/share/daige/The%20Week%20of%20Baidu%20Bugs.pdf)
 
-### ppt文档
+# ppt文档
+ [链接](https://github.com/daige/web2hack/tree/master/share/ppt)
 
-
-###hack阅读
 
 
 
